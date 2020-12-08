@@ -1,4 +1,4 @@
-module github.com/cosmos/iavl
+module github.com/tendermint/iavl
 
 go 1.12
 
